@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Future of the web developement",
+            "subtitle": "some title",
+            "image": "../Assets/Fresh Catch Sticker.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "FMedical body 'disheartened' over Supreme Court's ultimatum to protesting doctors",
+            "subtitle": "some title",
+            "image": "../Assets/kolkata-doctors-protest-092455802-16x9_0.webp"
+        },
+        {
+            "id": 3,
+            "title": "Defence Ministry inks Rs 26,000 crore contract for engines of Su-30 MKI jets",
+            "subtitle": "some title",
+            "image": "../Assets/su-30-mki-jet-09283825-16x9_0.avif"
+        },
+        {
+            "id": 4,
+            "title": "Sri Lanka's 4th Test win in England, rare hundred for Pathum Nissanka",
+            "subtitle": "some title",
+            "image": "../Assets/pathum-nissanka-with-angelo-mathews-095108396-16x9_0.webp"
+        },
+        {
+            "id": 5,
+            "title": "Celebrating Keanu Reeves: The eternal internet darling",
+            "subtitle": "some title",
+            "image": "../Assets//keanu-reeves-025930587-16x9_0.avif"
+        },
+        {
+            "id": 6,
+            "title": "iPhone 16 launch event is called Glowtime but what does it mean, what is the secret message?",
+            "subtitle": "some title",
+            "image": "../Assets/iphone-16-092849118-16x9_0.avif"
+        }
+    ]
+}
